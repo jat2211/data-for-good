@@ -9,7 +9,8 @@ For visualizations of the data, I primarily used MatPlotLib, which includes:
 - [Graph](https://github.com/jat2211/data-for-good/blob/main/numcomp_chart.png) that displays the top 15 industries with the most companies that had the same practice/labor-related risk terms and supply-chain terms co-occurrences across all years.
 - [Graph](https://github.com/jat2211/data-for-good/blob/main/pct_chart.png) that displays the top 15 industries with the highest percentage of companies that had practice/labor-related risk terms and supply-chain terms co-occurrences across all years.
 ## Media
-For more insight into how the results of my work has led to "some important findings here that we would not have been able to otherwise surface", please check out this [article](https://rightscolab.org/applying-our-methods-to-advance-standard-setting-for-diversity-equity-inclusion-dei/) highlighting my work on 10-K's in parallel with my team member's work on a separate dataset.
+- For more insight into how the results of my work has led to "some important findings here that we would not have been able to otherwise surface", please check out this [article](https://rightscolab.org/applying-our-methods-to-advance-standard-setting-for-diversity-equity-inclusion-dei/) highlighting my work on 10-K's in parallel with my team member's work on a separate dataset.
+- If you're appetite still isn't completely satisfied, then this [link](https://rightscolab.org/january-2022-update-on-automating-research-to-identify-financially-material-disclosure-topics/) provides the most comprehensive description of the dataset and methodology used in my research, as well as the rest of the 2021 Rights Colab and Data for Good team.
 ## Revelant Skills Used
 - Python
 - SQL
