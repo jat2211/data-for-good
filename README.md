@@ -8,6 +8,8 @@ For visualizations of the data, I primarily used MatPlotLib, which includes:
 - [Box Plot](https://github.com/jat2211/data-for-good/blob/main/Screen%20Shot%202021-12-22%20at%202.48.34%20AM.png) that shows the percentage of companies in a given industry that had practice or labor-related risk terms that co-occurred with terms relating to supply chains from 2013 to 2021.
 - [Graph](https://github.com/jat2211/data-for-good/blob/main/numcomp_chart.png) that displays the top 15 industries with the most companies that had the same practice/labor-related risk terms and supply-chain terms co-occurrences across all years.
 - [Graph](https://github.com/jat2211/data-for-good/blob/main/pct_chart.png) that displays the top 15 industries with the highest percentage of companies that had practice/labor-related risk terms and supply-chain terms co-occurrences across all years.
+## Media
+For more insight into how the results of my work has led to "some important findings here that we would not have been able to otherwise surface", please check out this [article](https://rightscolab.org/applying-our-methods-to-advance-standard-setting-for-diversity-equity-inclusion-dei/) highlighting my work on 10-K's in parallel with my team member's work on a separate dataset.
 ## Revelant Skills Used
 - Python
 - SQL
